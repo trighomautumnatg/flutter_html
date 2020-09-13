@@ -15,13 +15,6 @@ dependencies:
   csslib: ^0.16.2
   css_colors: ^1.0.2
 
-  # Plugins for rendering the <video> tag.
-  video_player:
-    git:
-      url: https://github.com/trighomautumnatg/plugins.git
-      path: packages/video_player/video_player
-  chewie: ^0.9.10
-
   # Plugin for rendering the <iframe> tag.
   webview_flutter: ^0.3.22+1
 
