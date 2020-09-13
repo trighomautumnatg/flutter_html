@@ -18,9 +18,6 @@ dependencies:
   # Plugin for rendering the <iframe> tag.
   webview_flutter: ^0.3.22+1
 
-  # Plugins for rendering the <audio> tag.
-  chewie_audio: ^1.0.0+1
-
   # Plugins for rendering the <svg> tag.
   flutter_svg: ^0.18.0
 
